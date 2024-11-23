@@ -1,4 +1,3 @@
 # Full-Stack Software Engineer | Next.js, AWS, AI-Driven Projects
 
-I am a Full-Stack Software Engineer specializing in developing dynamic web applications. Passionate about AI-driven projects, I integrate cutting-edge technologies to deliver robust and scalable solutions.
-
+As a dedicated Full-Stack Software Engineer, I bring extensive experience in developing dynamic and scalable web applications. Proficient in both back-end and front-end technologies, I specialize in delivering robust solutions that meet complex business needs.
